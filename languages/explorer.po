@@ -1,0 +1,493 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Explorer\n"
+"POT-Creation-Date: 2016-04-01 14:47+0200\n"
+"PO-Revision-Date: 2016-04-01 14:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: Anariel Design\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_x;_e;_nx\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:18
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:24
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:40
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:23
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:25
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:27
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:27
+msgid "F Y"
+msgstr ""
+
+#: archive.php:29
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:29
+msgid "Y"
+msgstr ""
+
+#: archive.php:31
+msgid "Asides"
+msgstr ""
+
+#: archive.php:33
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:35
+msgid "Images"
+msgstr ""
+
+#: archive.php:37
+msgid "Videos"
+msgstr ""
+
+#: archive.php:39
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:41
+msgid "Links"
+msgstr ""
+
+#: archive.php:43
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:45
+msgid "Audios"
+msgstr ""
+
+#: archive.php:47
+msgid "Chats"
+msgstr ""
+
+#: archive.php:49
+msgid "Archives"
+msgstr ""
+
+#: comments.php:27
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:33 comments.php:51
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:34 comments.php:52
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:35 comments.php:53
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: content-archive.php:16 content-aside.php:17 content-image.php:28
+#: content-quote.php:18 content-single.php:18 content-video.php:30
+#: content.php:28 inc/widgets.php:134
+#, php-format
+msgid "All %s posts"
+msgstr ""
+
+#: content-archive.php:18 content-archive.php:66 content-aside.php:19
+#: content-frontgrid.php:27 content-grid.php:26 content-image.php:30
+#: content-page.php:21 content-quote.php:21 content-single.php:20
+#: content-single.php:69 content-video.php:32 content.php:30
+#: inc/template-tags.php:78 inc/template-tags.php:108 inc/widgets.php:136
+msgid "Edit"
+msgstr ""
+
+#: content-archive.php:21 content-aside.php:22 content-image.php:33
+#: content-portfolio-single.php:28 content-quote.php:23 content-single.php:23
+#: content-video.php:35 content.php:33 inc/widgets.php:139
+msgid "Leave a comment"
+msgstr ""
+
+#: content-archive.php:21 content-aside.php:22 content-image.php:33
+#: content-portfolio-single.php:28 content-quote.php:23 content-single.php:23
+#: content-video.php:35 content.php:33 inc/widgets.php:139
+msgid "1 Comment"
+msgstr ""
+
+#: content-archive.php:21 content-aside.php:22 content-image.php:33
+#: content-portfolio-single.php:28 content-quote.php:23 content-single.php:23
+#: content-video.php:35 content.php:33 inc/widgets.php:139
+msgid "% Comments"
+msgstr ""
+
+#: content-archive.php:33 content-aside.php:33 content-image.php:45
+#: content-page.php:14 content-quote.php:28 content-single.php:35
+#: content-video.php:47 content.php:45 page-templates/portfolio-page.php:26
+msgid "Pages:"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: content-archive.php:41 content-archive.php:43 content-single.php:44
+#: content-single.php:46
+msgid ", "
+msgstr ""
+
+#: content-archive.php:47 content-single.php:50
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: content-archive.php:49 content-single.php:52
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content-archive.php:54 content-single.php:57
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content-archive.php:56 content-single.php:59
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: content-aside.php:14 content-image.php:42 content-quote.php:14
+#: content-video.php:44 content.php:42 functions.php:248
+msgid "Read More"
+msgstr ""
+
+#: content-single.php:75
+msgid "by "
+msgstr ""
+
+#: functions.php:70
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:71
+msgid "Social"
+msgstr ""
+
+#: functions.php:85
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:93
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:101
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:103
+msgid ""
+"Use this widget area to display widgets in the first column of the footer"
+msgstr ""
+
+#: functions.php:110
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:112
+msgid ""
+"Use this widget area to display widgets in the second column of the footer"
+msgstr ""
+
+#: functions.php:119
+msgid "Footer Three"
+msgstr ""
+
+#: functions.php:121
+msgid ""
+"Use this widget area to display widgets in the third column of the footer"
+msgstr ""
+
+#: functions.php:128
+msgid "Front Page Sidebar"
+msgstr ""
+
+#: functions.php:130
+msgid ""
+"Use this widget area to display Explorer Front Page: 5 Column Recent Posts "
+"widget, Explorer Front Page: Masonry Recent Posts widget or Soliloquy slider "
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Raleway, translate this to 'off'. Do not translate into your own language.
+#. translators: If there are characters in your language that are not supported by Playfair Display, translate this to 'off'. Do not translate into your own language.
+#: functions.php:151 functions.php:155
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional character subset specific to your language, translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: functions.php:159
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:220
+msgid "&hellip;"
+msgstr ""
+
+#: functions.php:225
+msgid "words"
+msgstr ""
+
+#: header-custom.php:30 header.php:30
+msgid "Menu"
+msgstr ""
+
+#: header-custom.php:32 header.php:32
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "Front Page: Featured Page One"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Front Page: Featured Page Two"
+msgstr ""
+
+#: inc/customizer.php:54
+msgid "Front Page: Featured Page Three"
+msgstr ""
+
+#: inc/customizer.php:63 inc/customizer.php:71
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:119 inc/customizer.php:130
+msgid "Favicon"
+msgstr ""
+
+#: inc/customizer.php:142
+msgid ""
+"Change color of the dark gray background and border elements like footer,"
+"header background etc."
+msgstr ""
+
+#: inc/customizer.php:152
+msgid ""
+"Change color of the pink background and border elements like buttons etc."
+msgstr ""
+
+#: inc/customizer.php:162
+msgid ""
+"Change color of the blue background and border elements like buttons, "
+"borders etc."
+msgstr ""
+
+#: inc/customizer.php:172
+msgid ""
+"Change color of the blue background and border elements like sticky blog "
+"border, dividers, input borders etc."
+msgstr ""
+
+#: inc/customizer.php:182
+msgid ""
+"Change color of the light gray background and border elements like sidebar "
+"background, masonry post background etc."
+msgstr ""
+
+#: inc/customizer.php:192
+msgid "Change color of the white background and border elements elements."
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "Change color of the dark gray text elements."
+msgstr ""
+
+#: inc/customizer.php:212
+msgid "Change color of the blue text elements."
+msgstr ""
+
+#: inc/customizer.php:222
+msgid "Change color of the white text elements."
+msgstr ""
+
+#: inc/template-tags.php:35
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:39
+msgid "<span class=\"meta-nav\">Previous testimonial</span>"
+msgstr ""
+
+#: inc/template-tags.php:40
+msgid "Next testimonial"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "<span class=\"meta-nav\">View the post</span>"
+msgstr ""
+
+#: inc/template-tags.php:46
+msgid "<span class=\"meta-nav\">Previous post</span>"
+msgstr ""
+
+#: inc/template-tags.php:47
+msgid "Next post"
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:57
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:78
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:94
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:100
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:125
+#, php-format
+msgid ""
+"<span class=\"sticky-post\">Sticky</span><span class=\"byline\"><span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel="
+"\"author\">%3$s</a></span></span>"
+msgstr ""
+
+#: inc/template-tags.php:127 inc/template-tags.php:137
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/template-tags.php:131
+#, php-format
+msgid ""
+"<span class=\"entry-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark"
+"\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a></span> <span "
+"class=\"byline\"><span class=\"author vcard\"><a class=\"url fn n\" href="
+"\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: inc/template-tags.php:222
+#, php-format
+msgid "View <span class=\"screen-reader-text\">%1s</span>"
+msgstr ""
+
+#: inc/widgets.php:19
+msgid "5 Column Recents Posts Widget with Featured Images."
+msgstr ""
+
+#: inc/widgets.php:20
+msgid "Explorer Front Page: 5 Column Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:46 inc/widgets.php:51 inc/widgets.php:126
+#: inc/widgets.php:131
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: inc/widgets.php:81 inc/widgets.php:174
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:83 inc/widgets.php:176
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets.php:85 inc/widgets.php:178
+msgid "Category slug (optional, separate multiple categories by comma):"
+msgstr ""
+
+#: inc/widgets.php:99
+msgid "Masonry Recents Posts Widget with Featured Images."
+msgstr ""
+
+#: inc/widgets.php:100
+msgid "Explorer Front Page: Masonry Recent Posts"
+msgstr ""
+
+#: no-results.php:14 page-templates/portfolio-page.php:63 search.php:19
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:24 page-templates/portfolio-page.php:69
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: page-templates/portfolio-page.php:67
+#, php-format
+msgid ""
+"Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
