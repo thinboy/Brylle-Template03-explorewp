@@ -135,7 +135,7 @@ $wp_customize->add_control( new WP_Customize_Image_Control( $wp_customize, 'expl
  * Adds the individual sections for custom colors
  */
 	$wp_customize->add_setting('explorer_link_color', array(
-		'default'           => '#383f49',
+		'default'           => '#2fc3ce',
 		'sanitize_callback' => 'sanitize_hex_color'
 	));
 	$wp_customize->add_control( new WP_Customize_Color_Control($wp_customize, 'explorer_link_color', array(
@@ -195,7 +195,7 @@ $wp_customize->add_control( new WP_Customize_Image_Control( $wp_customize, 'expl
 		'settings' => 'explorer_linkeight_color',
 	)));
 	$wp_customize->add_setting('explorer_linkfive_color', array(
-		'default'           => '#383f49',
+		'default'           => '#2fc3ce',
 		'sanitize_callback' => 'sanitize_hex_color'
 	));
 	$wp_customize->add_control( new WP_Customize_Color_Control($wp_customize, 'explorer_linkfive_color', array(

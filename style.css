@@ -134,12 +134,12 @@ footer.entry-meta .edit-link a:before {
 
 /* Selection */
 ::-moz-selection {
-   background: #383f49;
+   background: #2fc3ce;
    color: #fff;
    text-shadow: none;
 }
 ::selection {
-   background: #383f49;
+   background: #2fc3ce;
    color: #fff;
    text-shadow: none;
 }
@@ -153,7 +153,7 @@ button,
 input,
 select,
 textarea {
-	color: #383f49;
+	color: #2fc3ce;
 	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 1em;
 	line-height: 1.75;
@@ -258,7 +258,7 @@ blockquote cite {
 	font-style: normal;
 }
 blockquote:before {
-	color: #383f49;
+	color: #2fc3ce;
 	content: '\f106';
 	font-size: 30px;
 	font-size: 1.66666667rem;
@@ -287,7 +287,7 @@ blockquote cite {
 	text-transform: none;
 }
 blockquote cite a {
-	color: #383f49;
+	color: #2fc3ce;
 }
 .pullquote {
 	border: 0;
@@ -296,8 +296,8 @@ blockquote cite a {
 	text-align: right;
 	width: 35%;
 	float: left;
-	border-top: 1px solid #383f49;
-	border-bottom: 1px solid #383f49;
+	border-top: 1px solid #2fc3ce;
+	border-bottom: 1px solid #2fc3ce;
 }
 .pullquote.alignright {
 	margin: 1em 0 1em 1.625em;
@@ -649,7 +649,7 @@ body {
 /* 4.0 - Header
 ----------------------------------------------- */
 #headertop {
-	background: #383f49;
+	background: #2fc3ce;
 	position: fixed;
 	width: 100%;
 	z-index: 9999;
@@ -669,7 +669,7 @@ body {
 	text-align: center;
 }
 .site-title {
-	border: 2px solid #383f49;
+	border: 2px solid #2fc3ce;
 	border-radius: 3px;
 	clear: both;
 	display: inline-block;
@@ -681,7 +681,7 @@ body {
 	padding: 5px 10px;
 }
 .site-title a {
-	color: #383f49;
+	color: #2fc3ce;
 }
 .site-description {
 	color: #637a8b;
@@ -734,7 +734,7 @@ body {
 	padding: 0 15px;
 }
 .navigation-main ul ul {
-	background-color: #383f49;
+	background-color: #2fc3ce;
 	display: none;
 	float: left;
 	position: absolute;
@@ -783,7 +783,7 @@ body {
 .navigation-main ul ul li:hover, 
 .navigation-main li li.current_page_item, 
 .navigation-main li li.current-menu-item {
-	background-color: #383f49;
+	background-color: #2fc3ce;
 }
 
 /* Small menu */
@@ -809,7 +809,7 @@ body {
 }
 .main-small-navigation a {
 	display: block;
-	color: #383f49;
+	color: #2fc3ce;
 	padding: 8px 0;
 }
 .main-small-navigation ul {
@@ -1022,7 +1022,7 @@ span.text {
 	font-weight: 600;
 }
 .entry-title a {
-	color: #383f49;
+	color: #2fc3ce;
 }
 .entry-meta, 
 .categories-links {
@@ -1039,7 +1039,7 @@ span.text {
 	margin-bottom: 12px;
 }
 .categories-links a {
-	color: #383f49;
+	color: #2fc3ce;
 }
 .categories-links a:hover {
 	color: #637a8b;
@@ -1090,7 +1090,7 @@ span.text {
 	height: 22px;
 }
 .page-links a {
-	background-color: #383f49;
+	background-color: #2fc3ce;
 	border-radius: 3px;
 	color: #fff;
 	display: inline-block;
@@ -1175,7 +1175,7 @@ footer.entry-meta .edit-link a:before {
 	font-size: 16px;
 	font-size: 0.88888889rem;
 	font-weight: 500;
-	color: #383f49;
+	color: #2fc3ce;
 }
 .single.blog.default .post {
 	margin-bottom: 40px;
@@ -1189,7 +1189,7 @@ footer.entry-meta .edit-link a:before {
 	content: '\f408';
 }
 .postdate a {
-	color: #383f49;
+	color: #2fc3ce;
 }
 h1.entry-title {
 	font-size: 3em;
@@ -1202,7 +1202,7 @@ h1.entry-title {
 	word-wrap: break-all;
 	word-wrap: break-word;
 	-ms-hyphens: manual;
-	color: #383f49;
+	color: #2fc3ce;
 }
 a.more-link {
 	background-color: #637a8b;
@@ -1327,7 +1327,7 @@ a.excerpt-link {
 	font-weight: 500;
 }
 .authorbox h3.author-name a {
-	color: #383f49;
+	color: #2fc3ce;
 }
 .authorbox h3.author-name span {
 	font-style: italic;
@@ -1404,7 +1404,7 @@ p.author-description {
 .comment-author cite {
 	font-size: 16px;
 	font-size: 0.88888889rem;
-	color: #383f49;
+	color: #2fc3ce;
 	font-weight: 600;
 }
 
@@ -1676,7 +1676,7 @@ p > embed, p > iframe, p > object, p > span > embed, p > span > iframe, p > span
 	text-transform: uppercase;
 }
 .widget a {
-	color: #383f49;
+	color: #2fc3ce;
 }
 .widget a:hover {
 	color: #637a8b;
@@ -1838,7 +1838,7 @@ p > embed, p > iframe, p > object, p > span > embed, p > span > iframe, p > span
 .widget_flickr #flickr_badge_uber_wrapper a:link, 
 .widget_flickr #flickr_badge_uber_wrapper a:active, 
 .widget_flickr #flickr_badge_uber_wrapper a:visited {
-	color: #383f49;
+	color: #2fc3ce;
 }
 .widget_flickr #flickr_badge_uber_wrapper a:hover {
 	color: #637a8b;
@@ -1878,12 +1878,12 @@ p > embed, p > iframe, p > object, p > span > embed, p > span > iframe, p > span
 .widget-area .milestone-header, 
 .widget-area .milestone-countdown, 
 .widget-area .milestone-message {
-	background-color: #383f49;
+	background-color: #2fc3ce;
 	color: #fff;
 }
 .widget-area .milestone-countdown {
-	background-color: #383f49;
-	border-color: #383f49;
+	background-color: #2fc3ce;
+	border-color: #2fc3ce;
 }
 .widget-area .milestone-widget {
 	margin-bottom: 72px;
@@ -1989,7 +1989,7 @@ p > embed, p > iframe, p > object, p > span > embed, p > span > iframe, p > span
 .sidebar-widget-area .widgettitle, 
 .sidebar-widget-area .widget-title, 
 .sidebar-widget-area .widget-title a {
-	color: #383f49;
+	color: #2fc3ce;
 	font-size: 16px;
 	font-size: 0.88888889rem;
 	margin-bottom: 20px;
@@ -2031,7 +2031,7 @@ p > embed, p > iframe, p > object, p > span > embed, p > span > iframe, p > span
 
 /* Gravatar Profile widget */
 .sidebar-widget-area .widget-grofile h4 {
-	color: #383f49;
+	color: #2fc3ce;
 	font-size: 15px;
 	font-size: 0.83333333rem;
 	line-height: 2.06666667;
@@ -2089,7 +2089,7 @@ p > embed, p > iframe, p > object, p > span > embed, p > span > iframe, p > span
 	letter-spacing: 0.07em;
 }
 .footer ul li {
-	border-bottom: 1px solid #383f49;
+	border-bottom: 1px solid #2fc3ce;
 }
 .footerwidgets, .clearingmargin {
 	margin: 0 -15px;
@@ -2109,7 +2109,7 @@ p > embed, p > iframe, p > object, p > span > embed, p > span > iframe, p > span
 	color: #fff;
 }
 .copyright {
-	background: #383f49;
+	background: #2fc3ce;
 	color: #fff;
 }
 .site-info, .site-info a {
@@ -2173,7 +2173,7 @@ p > embed, p > iframe, p > object, p > span > embed, p > span > iframe, p > span
 	clear: both;
 }
 .menu-content {
-	background: #383f49;
+	background: #2fc3ce;
 	font-size: 15px;
 	font-size: 0.83333333rem;
 	color: #fff;
@@ -2192,7 +2192,7 @@ a.menu-close {
 	right: 0;
 	width: 100px;
 	height: 30px;
-	background: #383f49;
+	background: #2fc3ce;
 }
 a.menu-close:after {
 	content: '\f405';
@@ -2222,7 +2222,7 @@ a.about-menu-toggle {
 	padding: 2px 20px;
 	margin: 0 auto;
 	text-align: center;
-	color: #383f49;
+	color: #2fc3ce;
 }
 .footer.custom a.about-menu-toggle {
 	background-color: #f6f9fb;
@@ -2231,10 +2231,10 @@ a.about-menu-toggle {
 	padding: 2px 20px;
 	margin: 0 auto;
 	text-align: center;
-	color: #383f49;
+	color: #2fc3ce;
 }
 a.about-menu-toggle:after {
-	color: #383f49;
+	color: #2fc3ce;
 	content: '\f431';
 	font-size: 30px;
 	display: inline-block;
@@ -2251,7 +2251,7 @@ a.about-menu-toggle:after {
 	vertical-align: middle;
 }
 a.about-menu-toggle.open:after {
-	color: #383f49;
+	color: #2fc3ce;
 	content: '\f432';
 	font-size: 30px;
 	display: inline-block;
@@ -2333,7 +2333,7 @@ a.about-menu-toggle.open:after {
 .fivecolumn .entry-title {
 	font-size: 16px;
 	font-size: 0.88888889rem;
-	border-bottom: 1px solid #383f49;
+	border-bottom: 1px solid #2fc3ce;
 	display:inline-block;
 	margin: 0 0 5px 0;
 	max-width: 90%;
@@ -2351,7 +2351,7 @@ a.about-menu-toggle.open:after {
 .welcome hr.separator {
     padding: 0;
     border: none;
-    border-top: 4px double #383f49;
+    border-top: 4px double #2fc3ce;
     text-align: center;
 	width: 15%;
 	display:block;
@@ -2360,7 +2360,7 @@ a.about-menu-toggle.open:after {
 hr.separator {
     padding: 0;
     border: none;
-    border-top: 4px double #383f49;
+    border-top: 4px double #2fc3ce;
     text-align: center;
 	width: 15%;
 	display:block;
@@ -2373,7 +2373,7 @@ hr.separator {
 }
 hr.separator:after {
     content: '\f417';
-	color: #383f49;
+	color: #2fc3ce;
 	-webkit-font-smoothing: antialiased;
 	font: normal 16px/1 Genericons;
 	display: inline-block;
@@ -2583,7 +2583,7 @@ hr.separator:after {
 
 /* Jetpack: Sharing */
 .sharedaddy h3.sd-title {
-	color: #383f49;
+	color: #2fc3ce;
 	font-weight: 400!important;
 	text-align: left;
 }
@@ -2614,7 +2614,7 @@ div#jp-relatedposts div.jp-relatedposts-items-visual h4.jp-relatedposts-post-tit
 	margin-bottom: 5px;
 }
 div#jp-relatedposts a {
-	color: #383f49;
+	color: #2fc3ce;
 }
 div#jp-relatedposts div.jp-relatedposts-items-visual .jp-relatedposts-post img.jp-relatedposts-post-img, 
 div#jp-relatedposts div.jp-relatedposts-items-visual .jp-relatedposts-post span {
@@ -2701,7 +2701,7 @@ form.contact-form {
 	font-weight: 500!important;
 }
 .portfolio-entry-title a {
-	color: #383f49;
+	color: #2fc3ce;
 }
 .postinner.portfolio figure img {
 	box-shadow: 0 1px 2px 0 rgba(0,0,0,.3);
@@ -2790,7 +2790,7 @@ form.contact-form {
 .woocommerce-page #content input.button {
 	background: none!important;
 	text-decoration: none;
-	border: 2px solid #383f49!important;
+	border: 2px solid #2fc3ce!important;
 	border-radius: 3px!important;
 	font-weight: 500!important;
 	text-transform: none!important;
@@ -2798,7 +2798,7 @@ form.contact-form {
 	-moz-box-shadow: none!important;
 	box-shadow: none!important;
 	text-shadow: none!important;
-	color: #383f49!important;
+	color: #2fc3ce!important;
 }
 .woocommerce #content input.button.added:before, 
 .woocommerce #respond input#submit.added:before, 
@@ -2841,14 +2841,14 @@ form.contact-form {
 }
 .woocommerce ul.products li.product .price, 
 .woocommerce-page ul.products li.product .price {
-    color: #383f49!important;
+    color: #2fc3ce!important;
 }
 .single .product span.amount, .woocommerce ul.products li.product h3, .woocommerce-page ul.products li.product h3 {
-	color: #383f49!important;
+	color: #2fc3ce!important;
 }
 .woocommerce span.onsale, 
 .woocommerce-page span.onsale {
-	background: #383f49!important;
+	background: #2fc3ce!important;
 	text-shadow: none!important;
 }
 .woocommerce ul.products li.product a img, 
@@ -2884,7 +2884,7 @@ form.contact-form {
 	background-color: #cdcdcd!important;
 }
 .gridlist-toggle a.active {
-	background: #383f49!important;
+	background: #2fc3ce!important;
 	-webkit-box-shadow: none!important;
 	-moz-box-shadow: none!important;
 }

@@ -294,3 +294,5 @@ require( get_template_directory() . '/inc/jetpack.php' );
 remove_action( 'woocommerce_sidebar', 'woocommerce_get_sidebar', 10);
 add_theme_support( 'woocommerce' );
 add_filter( 'loop_shop_per_page', create_function( '$cols', 'return 40;' ), 20 );
+
+//add_filter( 'jetpack_development_mode', '__return_true' );
